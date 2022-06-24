@@ -1,21 +1,12 @@
 ### Hola, Ciao, Hi there! 👋
 
-ENG:
+This is Lara! 
 
-<!--
-**Lara-IS/Lara-IS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤓 I’m currently working on boosting my programming and data analysis skills!
+- 🌱 I’m currently learning Python, SQL, Tableau, C... but also how to play soccer!
+- 💬 Ask me about "%'s", I find it essential to get the full picture of every piece of data 🧩
+- 📫 How to reach me: laraiglesiassantos@gmail.com / https://www.linkedin.com/in/laraiglesiass/ 
+- ⚡ Fun fact: my dog is named after a Friend's character! 
 
 My repositories:
 1️⃣ Project, yet to describe!
