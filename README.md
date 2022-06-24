@@ -11,10 +11,10 @@ This is Lara!
 
 🦄 
 
-My repositories:
-> 1️⃣ Project, yet to describe!
-> 2️⃣ Adalab: here they are all the Adalab's Bootcamp pair-programming challenges (commented in Spanish), and our great group projects. Want to check our pipeline for automatized file cleaning? You may also like to take a look on our lineal regression model, predicting bike renting data, accompanied by well-thought and colourful dashboards made on Tableau! 
-> 3️⃣ 42: here you can find my projects along "42 - Madrid" cursus. Step by step, I'm trying to boost my programming skills in this Campus based in Fundación Telefónica.
+> My repositories:
+> - 1️⃣ Project, yet to describe!
+> - 2️⃣ Adalab: here they are all the Adalab's Bootcamp pair-programming challenges (commented in Spanish), and our great group projects. Want to check our pipeline for automatized file cleaning? You may also like to take a look on our lineal regression model, predicting bike renting data, accompanied by well-thought and colourful dashboards made on Tableau! 
+> - 3️⃣ 42: here you can find my projects along "42 - Madrid" cursus. Step by step, I'm trying to boost my programming skills in this Campus based in Fundación Telefónica.
 
 ESP:
 
